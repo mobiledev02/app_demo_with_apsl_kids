@@ -1,0 +1,39 @@
+{
+  "android": [
+    {
+      "adNetwork": "admob",
+      "appId": "ca-app-pub-3940256099942544~3347511713",
+      "appOpenId": "ca-app-pub-3940256099942544/3419835294",
+      "bannerId": "ca-app-pub-3940256099942544/6300978111",
+      "interstitialId": "ca-app-pub-3940256099942544/1033173712",
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "rewardedId": "ca-app-pub-3940256099942544/5224354917"
+    },
+    {
+      "adNetwork": "unity",
+      "appId": "4374881",
+      "bannerId": "Banner_Android",
+      "interstitialId": "Interstitial_Android",
+      "rewardedId": "Rewarded_Android"
+    },
+    {
+      "adNetwork": "facebook",
+      "appId": "1579706379118402",
+      "bannerId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "interstitialId": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID",
+      "rewardedId": "VID_HD_16_9_46S_APP_INSTALL#YOUR_PLACEMENT_ID"
+    }
+  ],
+  "ios": [
+    {
+      "adNetwork": "admob",
+      "appId": "ca-app-pub-3940256099942544~3347511713",
+      "appOpenId": "ca-app-pub-3940256099942544/5662855259",
+      "bannerId": "ca-app-pub-3940256099942544/2934735716",
+      "interstitialId": "ca-app-pub-3940256099942544/4411468910",
+      "nativeId": "ca-app-pub-3940256099942544/3986624511",
+      "rewardedId": "ca-app-pub-3940256099942544/1712485313"
+    }
+  ],
+  "navigationAdCount": 1
+}

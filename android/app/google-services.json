@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137688050211",
+    "firebase_url": "https://app-demo-with-apsl-ads-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "app-demo-with-apsl-ads",
+    "storage_bucket": "app-demo-with-apsl-ads.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137688050211:android:52eab106e972150754df96",
+        "android_client_info": {
+          "package_name": "com.appstonelab.apsladsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137688050211-9grcu4ogouf303apsh2ejcdoi9n7taae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY9ZGBJqaf6u9z_Xhrol-k6Tou4RYl89U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137688050211-9grcu4ogouf303apsh2ejcdoi9n7taae.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137688050211-sclp7itrp432mp4nrkde7869nflj0irh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appstonelab.apsladsdemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
